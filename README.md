@@ -1,3 +1,3 @@
 # v
 
-##URL: https://github.com/anm12222cs043/v.git
+##URL: https://anm12222cs043.github.io/v/
